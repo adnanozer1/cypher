@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "571327787856822295",
+        "prefix": ",",
+        "BotStatus": "YouTube CypheR",
+        "BotFooter": "Cypher'ın Bölgesindesin",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "798692812337053729",
+            "log": "840907416144445480",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "798692812337053729",
+            "roles": "965311223543500840",
+            "log": "840907416144445480",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "798692812337053729",
+            "roles": "806328699707588670",
+            "log": "840907416144445480",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "798692812337053729",
+            "log": "840907416144445480"
+        },
+        "transport": {
+            "staff": "798692812337053729"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "840907416144445480",
+        "rollog": "840907416144445480",
+        "messagelog": "840907416144445480",
+        "seslog": "840907416144445480"
+    },
+    "roles": {
+        "vip": "965311495657385994",
+        "sponsor": "965311833097502730",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
+    },
+    "channels": {
+        "chat": "909118266268606504",
+        "voicechannel": "965331990243078184",
+        "welcomechannel": "HOŞ GELDİN KANALI ID",
+        "rules": "798692813491273728"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROL ID",
+        "man": ["ERKEK ROL ID", "2. ERKEK ROL ID"],
+        "woman": ["KADIN ROL ID", "2. ERKEK ROL ID"],
+        "yetkilialim": "YETKİLİ ALIM ROL ID",
+        "staff": "REGİSTER ROL ID",
+        "enaltyetkilirolü": "EN ALT YETKİLİ ROL ID",
+        "GuilDTag": "SUNUCU TAGINIZ",
+        "TagSymbol": "ISIM YAŞIN ÖNÜNE KOYULACAK SEMBOL",
+        "autonickname": "$ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "ŞÜPHELİ ROL ID",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "1. ERKEK ROLU",
+        "onewoman": "2. ERKEK ROLU",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "798692812337053728",
+        "GuilDName": "CYPHER",
+        "GuildOwnerRole": ["798692812577177628"]
+    },
+    "emojis": {
+        "tada": "TADA EMOJİSİ",
+        "yes": "ONAY EMOJİSİ",
+        "no": "RED EMOJİSİ"
+
+    }
+} 
